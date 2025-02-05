@@ -3,9 +3,9 @@ import { FaLinkedin, FaGithub, FaTwitter } from 'react-icons/fa';
 
 const Footer = () => {
   const accounts = [
-    { name: "LinkedIn", link: "https://www.linkedin.com", icon: <FaLinkedin size={20} /> },
+    { name: "LinkedIn", link: "https://www.linkedin.com/in/laith-shahbil-a8bb13281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", icon: <FaLinkedin size={20} /> },
     { name: "GitHub", link: "https://github.com/l-shahbil", icon: <FaGithub size={20} /> },
-    { name: "Twitter", link: "https://twitter.com", icon: <FaTwitter size={20} /> },
+    { name: "Twitter", link: "https://x.com/l_shahbil?t=ALHSI9DDyl4EYB2Oi-ymIg&s=08", icon: <FaTwitter size={20} /> },
   ];
 
   return (
