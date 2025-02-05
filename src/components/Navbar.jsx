@@ -24,7 +24,7 @@ const Navbar = () => {
 
   return (
     <nav className="flex justify-between items-center bg-[#102748] p-6 shadow-md fixed w-full top-0 z-50">
-      <h1 className="text-2xl font-bold">Laith Shahbil</h1>
+      <h1 className="text-2xl font-bold">Laith <span className='text-lightText'>Shahbil</span></h1>
       
       {/* Mobile Menu Button */}
       <button 

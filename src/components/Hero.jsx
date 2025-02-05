@@ -11,7 +11,7 @@ const Hero = () => {
             Hello web developer,
           </h1>
           <h2 className="text-4xl md:text-9xl font-extrabold">
-            I'm Laith
+            I'm <span className="text-lightText">Laith</span>
             <sup className="text-lightText">*</sup>
           </h2>
           <p className="text-lg mt-4 w-full">
